@@ -95,5 +95,7 @@ The three HIV-1 datasets should additionally be cited:
 
 ## License
 
-[license TBD — MIT or BSD-3-Clause recommended for code; the HIV trees were
-released by their original authors and remain under their respective terms.]
+This project is released under the MIT License — see the [`LICENSE`](LICENSE)
+file for the full text. The three HIV-1 phylogenies were released by their
+original authors (see the citations above) and remain under their respective
+terms.
